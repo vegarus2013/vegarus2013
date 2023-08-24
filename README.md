@@ -1,4 +1,4 @@
-<h6 align="right">relevant 10.04.2023</h6>
+<h6 align="right">relevant 25.08.2023</h6>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=PTSans&duration=2500&pause=2500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%E2%9C%8C+Welcome!+This+is+my+page+where+you+can+see+my+various+designs;%F0%9F%93%99+My+nickname+is+VegarusNik.+My+name+is+Nikolay;%F0%9F%92%BC+I+run+my+nonprofit+company+GroupMediaVegarus">
@@ -16,16 +16,14 @@
 ## _Existing my projects_
 
 - English language:
-1. [KosmosTime](https://kosmostime.su) - Information and entertainment portal (_Opening date: 02.06.2023_)
+1. [KosmosTime](https://kosmostime.su) - Information and entertainment portal
 2. [5radio.su](https://5radio.su) - Internet-radio "Fifth Radio"
-   _The site is available. This is just the beginning. The site and Internet radio stations are constantly evolving and improving slowly_
-3. [TrainPedia](https://trainpedia.su) - Encyclopedia of Russian railways (_Opening date:10.05.2023_)
+3. [TrainPedia](https://trainpedia.su) - Encyclopedia of Russian railways
 
 - Русский язык:
-1. [КосмосТайм](https://kosmostime.su) - Информационно-развлекательный портал (_Дата открытия: 02.06.2023_)
+1. [КосмосТайм](https://kosmostime.su) - Информационно-развлекательный портал
 2. [5radio.su](https://5radio.su) - Интернет-радио "Пятое радио"
-   _Сайт доступен. Это только начало. Сайт  и интернет-радиостанции постоянно развиваются и улучшаются потихоньку_
-3. [TrainPedia](https://trainpedia.su) - Энциклопедия о русских железных дорогах (_Дата открытия: 10.05.2023_)
+3. [TrainPedia](https://trainpedia.su) - Энциклопедия о русских железных дорогах (_Дата открытия: 10.10.2023_)
 
 In the future, the Azure CSS Framework will open
 
