@@ -18,7 +18,7 @@
 - English language:
 1. [KosmosTime](https://kosmostime.su) - Information and entertainment portal
 2. [5radio.su](https://5radio.su) - Internet-radio "Fifth Radio"
-3. [TrainPedia](https://trainpedia.su) - Encyclopedia of Russian railways
+3. [TrainPedia](https://trainpedia.su) - Encyclopedia of Russian railways (_Date open: 10.10.2023_)
 
 - Русский язык:
 1. [КосмосТайм](https://kosmostime.su) - Информационно-развлекательный портал
@@ -28,11 +28,11 @@
 In the future, the Azure CSS Framework will open
 
 ## _What am I doing now and what plans._
-I am developing a new CSS Precompilation Framework (SCSS: SASS). It will be called Azure CSS. Why, because this is my favorite color, azure. And not only the rest is still much ahead of the development.
+I continue to develop all my sites, the Azure CSS framework moves to the PyAzureCSS graphic application, and about SCSS is temporarily suspended
 
 
 ## _Yatube - social network live journal_
-##### [Website demo - Yatube >>>](http://yatube.vegarus.su)
+##### [Website demo - Yatube >>>](https://vegarus.su/demo/yatube)
 
 <details>
   <summary>Open the screenshot</summary>
