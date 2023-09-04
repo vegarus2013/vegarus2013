@@ -25,8 +25,6 @@
 2. [5radio.su](https://5radio.su) - Интернет-радио "Пятое радио"
 3. [TrainPedia](https://trainpedia.su) - Энциклопедия о русских железных дорогах (_Дата открытия: 10.10.2023_)
 
-In the future, the Azure CSS Framework will open
-
 ## _What am I doing now and what plans._
 I continue to develop all my sites, the Azure CSS framework moves to the PyAzureCSS graphic application, and about SCSS is temporarily suspended
 
