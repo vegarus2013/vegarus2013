@@ -1,9 +1,6 @@
-<h6 align="right">relevant 14.03.2024</h6>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=PTSans&duration=2500&pause=2500&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%E2%9C%8C+Welcome!+This+is+my+page+where+you+can+see+my+various+designs;%F0%9F%93%99+My+nickname+is+VegarusNik.+My+name+is+Nikolay;%F0%9F%92%BC+I+run+my+nonprofit+company+GroupMediaVegarus">
-  </a>
-</p>
+<h6 align="right">relevant 4.11.2024</h6>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=004080&vCenter=true&multiline=true&width=710&height=80&lines=%E2%9C%8C+Welcome!+This+is+my+page+where+you+can+see+my+various+designs;%F0%9F%93%99+My+nickname+is+VegarusNik.+My+name+is+Nikolay;%F0%9F%92%BC+I+run+my+nonprofit+company+%22GroupMediaVegarus%22)](https://git.io/typing-svg)
 
 ## _Contact me_
 
@@ -15,7 +12,7 @@
 
 ## _OS_
 
-[![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)](https://archlinux.org) [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://archlinux.org)
+[![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)](https://archlinux.org) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://archlinux.org)
 
 ## _Existing my projects_
 
@@ -23,21 +20,17 @@
 1. [KosmosTime](https://kosmostime.su) - Information and entertainment portal
 2. [5radio.su](https://5radio.su) - Internet-radio "Fifth Radio"
 3. [TrainPedia](https://trainpedia.su) - Encyclopedia of Russian railways (_The project is postponed for a while_)
-4. [DiriWeb](https://vegarus.su/soft/diriweb) - DiriWeb is a web server control panel (**long development is possible*)
-5. [DjRadioCMS](https://vegarus.su/soft/djradiocms) - DjRadioCMS - a radio control panel (based on DOCKER) (**long development is possible*)
-6. [AzureCSS](https://vegarus.su/soft/azurecss) - AzureCSS - CSS framework and customization of your style (**long development possible*)
-
-**long development is possible* - development can be done from 2-6 months of the moment of appearance on the project and on github
+4. [DiriWeb](https://vegarus.su/soft/diriweb) - DiriWeb is a web server control panel
+5. [DjRadioCMS](https://vegarus.su/soft/djradiocms) - DjRadioCMS - a radio control panel (based on DOCKER)
+6. [AzureCSS](https://vegarus.su/soft/azurecss) - AzureCSS - CSS framework and customization of your style
 
 - Русский язык:
 1. [КосмосТайм](https://kosmostime.su) - Информационно-развлекательный портал
 2. [5radio.su](https://5radio.su) - Интернет-радио "Пятое радио"
 3. [TrainPedia](https://trainpedia.su) - Энциклопедия о русских железных дорогах (_Отложен проект на время_)
-4. [DiriWeb](https://vegarus.su/soft/diriweb) - ДириВеб - панель управления веб сервером (**возможно долгая разработка*)
-5. [DjRadioCMS](https://vegarus.su/soft/djradiocms) - DjRadioCMS - панель управления радио (на основе DOCKER) (**возможно долгая разработка*)
-6. [AzureCSS](https://vegarus.su/soft/azurecss) - AzureCSS - Фреймворк CSS и настройки вашего стиля (**возможно долгая разработка*)
-
-**возможно долгая разработка* - разработка может заниматься от 2-6 месяцев момента появления на проекте и на github
+4. [DiriWeb](https://vegarus.su/soft/diriweb) - ДириВеб - панель управления веб сервером
+5. [DjRadioCMS](https://vegarus.su/soft/djradiocms) - DjRadioCMS - панель управления радио (на основе DOCKER)
+6. [AzureCSS](https://vegarus.su/soft/azurecss) - AzureCSS - Фреймворк CSS и настройки вашего стиля
 
 ## _Projects GitHub_
 
