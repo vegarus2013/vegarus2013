@@ -1,7 +1,7 @@
 <h6 align="right">relevant 14.03.2024</h6>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=PTSans&duration=2500&pause=2500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%E2%9C%8C+Welcome!+This+is+my+page+where+you+can+see+my+various+designs;%F0%9F%93%99+My+nickname+is+VegarusNik.+My+name+is+Nikolay;%F0%9F%92%BC+I+run+my+nonprofit+company+GroupMediaVegarus">
+    <img src="https://readme-typing-svg.herokuapp.com?font=PTSans&duration=2500&pause=2500&center=true&vCenter=true&multiline=true&width=710&height=100&lines=%E2%9C%8C+Welcome!+This+is+my+page+where+you+can+see+my+various+designs;%F0%9F%93%99+My+nickname+is+VegarusNik.+My+name+is+Nikolay;%F0%9F%92%BC+I+run+my+nonprofit+company+GroupMediaVegarus">
   </a>
 </p>
 
